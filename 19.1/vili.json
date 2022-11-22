@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1669118760",
+      "filename": "lineage-19.1-20221122-UNOFFICIAL-vili.zip",
+      "id": "01b707c5e6ead4775f6fda7a863db00951d64740d0b3e2e2b57d2bcfc467c05c",
+      "romtype": "UNOFFICIAL",
+      "size": "1374388995",
+      "url": "https://github.com/chemusqui1/ota_provider/releases/download/vili_lineage-19.1_1669118760/lineage-19.1-20221122-UNOFFICIAL-vili.zip",
+      "version": "19.1"
+    }
+  ]
+}
