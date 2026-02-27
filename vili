@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "full": {
+        "location_ota": "https://master.dl.sourceforge.net/project/TU_PROYECTO/HyperOS_VILI_1.0.zip",
+        "location_csig": "https://master.dl.sourceforge.net/project/TU_PROYECTO/HyperOS_VILI_1.0.zip.csig"
+    }
+}
