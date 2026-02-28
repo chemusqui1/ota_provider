@@ -1,7 +1,7 @@
 {
     "version": 2,
     "full": {
-        "location_ota": "https://downloads.sourceforge.net/project/vili-oss-roms/HyperOS/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip?ts=gAAAAABpotmp39mRFNB9sreGXo57w4KVu_sBJl6R-AO_nN0OQR7YYhJZdlDeQpOs5gq3j38W_bxI1nP_u9QEaV_-Eifq8yQAMw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fvili-oss-roms%2Ffiles%2FHyperOS%2Fvili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip%2Fdownload%3Fuse_mirror%3Ddeac-fra",
-        "location_csig": "https://downloads.sourceforge.net/project/vili-oss-roms/HyperOS/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip.csig?ts=gAAAAABpotnRoCCUtJvkMByOXmMDvVdCeACRqn2TXnjliYCMow80D-7ELM76geNQDpRMEzdQjcvSyM4hVSqpjWBrEUkJa6m88g%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fvili-oss-roms%2Ffiles%2FHyperOS%2Fvili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip.csig%2Fdownload"
+        "location_ota": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/blob/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip",
+        "location_csig": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/blob/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip.csig"
     }
 }
