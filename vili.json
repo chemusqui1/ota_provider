@@ -1,7 +1,7 @@
 {
     "version": 2,
     "full": {
-        "location_ota": "https://master.dl.sourceforge.net/project/TU_PROYECTO/HyperOS_VILI_1.0.zip",
-        "location_csig": "https://master.dl.sourceforge.net/project/TU_PROYECTO/HyperOS_VILI_1.0.zip.csig"
+        "location_ota": "https://sourceforge.net/projects/vili-oss-roms/files/HyperOS/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip/download",
+        "location_csig": "https://sourceforge.net/projects/vili-oss-roms/files/HyperOS/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228002413-34adede0e5-14.zip.csig/download"
     }
 }
