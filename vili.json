@@ -1,7 +1,7 @@
 {
     "version": 2,
     "full": {
-        "location_ota": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/resolve/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228185932-b71abce1aa-14.zip",
-        "location_csig": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/resolve/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228185932-b71abce1aa-14.zip.csig"
+        "location_ota": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/resolve/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228215259-83c6de8633-14.zip",
+        "location_csig": "https://huggingface.co/datasets/Chemuski1/Vili-OSS/resolve/main/vili-ota_full-OS2.0.6.0.UKDMIXM-2025-02-01-20260228215259-83c6de8633-14.zip.csig"
     }
 }
