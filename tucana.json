@@ -1,0 +1,81 @@
+{
+ "dispositivo": "tucana",
+ "formato": 1,
+ "versiones": [
+  {
+   "version": "XMF4XXXS1AZK9",
+   "build": "202611161431",
+   "fecha": 1794840256,
+   "oneui": "8.0",
+   "android": "16",
+   "parche": "2026-08-05",
+   "notas": "- Bugfixes\n\n\t- Fixed white theme blur in dialogs\n\t- Fixed UDFPS icon not showing in lockscreen/AoD until touching area\n\t- Fixed Dolby Atmos\n\n Improvements\n\n\t- Bundled custom updater app (Based on OneUI 9 one)\n\t- Included custom recovery inspired on OneUI, with eRecovery system\n\t- Test of eRecovery clean install ROM, coming from MIUI\n\n- Misc. notes\n\n\t- Now versions will follow a Samsung-like scheme, for example here:\n\t  XMF4XXXU1AZK1 (XMF4X for brand and model, XM Xiaomi, F4X the internal model, XX, U1 for\n\t  boot/kernel version, U being update, S remaining the same, then number, A for OneUI\n\t  major version in order, OneUI 8.5 would be B, 9 C and so on, the final letters are the\n\t  same as Samsung does, year/month and build number, ZK1 being 2026, November, 1st build)",
+   "tag": "XMF4XXXS1AZK9",
+   "estable": true,
+   "deltas": [
+    {
+     "archivo": "oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611090015.zip",
+     "tam": 159602400,
+     "sha256": "f20e5be1f10b0d563fa625c258b8d11c8671e730bc0c7ae3db97af0e86630ff3",
+     "partes": [
+      {
+       "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611090015.zip",
+       "tam": 159602400,
+       "sha256": "f20e5be1f10b0d563fa625c258b8d11c8671e730bc0c7ae3db97af0e86630ff3"
+      }
+     ],
+     "desde": "202611090015"
+    },
+    {
+     "archivo": "oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611151844.zip",
+     "tam": 159175273,
+     "sha256": "dfecab0c793f2d7755d7134914173bd35c31ad8bfdab4f0ce670ede0ceb4e93c",
+     "partes": [
+      {
+       "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611151844.zip",
+       "tam": 159175273,
+       "sha256": "dfecab0c793f2d7755d7134914173bd35c31ad8bfdab4f0ce670ede0ceb4e93c"
+      }
+     ],
+     "desde": "202611151844"
+    },
+    {
+     "archivo": "oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611160001.zip",
+     "tam": 159175273,
+     "sha256": "5e5eb5211c31e03e123d1afc30c3fe6037c93c6f60f7a720e27e37265d00f5b8",
+     "partes": [
+      {
+       "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-desde-202611160001.zip",
+       "tam": 159175273,
+       "sha256": "5e5eb5211c31e03e123d1afc30c3fe6037c93c6f60f7a720e27e37265d00f5b8"
+      }
+     ],
+     "desde": "202611160001"
+    }
+   ],
+   "completa": {
+    "archivo": "oneui8-tucana-XMF4XXXS1AZK9-202611161431-completa.zip",
+    "tam": 5150344726,
+    "sha256": "faeb108703c1106a146707b88e2d85e6a8b03c4f5263703f42e386d12911f370",
+    "partes": [
+     {
+      "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-completa.zip.001",
+      "tam": 1992294400,
+      "sha256": "93d422837915d49f2df2bee283ab512167626ea72130773c2c1eea9f7bcc5ddb"
+     },
+     {
+      "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-completa.zip.002",
+      "tam": 1992294400,
+      "sha256": "c581f60a9de62da98f5f2c153d596eef643ab4cf8d0e9f5576d41ae0a63b48d7"
+     },
+     {
+      "url": "https://github.com/chemusqui1/ota_provider/releases/download/XMF4XXXS1AZK9/oneui8-tucana-XMF4XXXS1AZK9-202611161431-completa.zip.003",
+      "tam": 1165755926,
+      "sha256": "85212d67cebf6a28fd3e6d0081a7492a9cd223f0f0c77a07465dce2955dfe88f"
+     }
+    ]
+   }
+  }
+ ],
+ "ultima": "202611161431"
+}
